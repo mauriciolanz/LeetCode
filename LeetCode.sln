@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480-RunningSumOf1dArray", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "724-FindPivotIndex", "724-FindPivotIndex\724-FindPivotIndex.csproj", "{808A9666-BD1A-405C-8779-E772FBF94577}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "205-IsomorphicStrings", "205-IsomorphicStrings\205-IsomorphicStrings.csproj", "{68EEC552-67E8-4898-BE0C-7F112333EA52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{808A9666-BD1A-405C-8779-E772FBF94577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{808A9666-BD1A-405C-8779-E772FBF94577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{808A9666-BD1A-405C-8779-E772FBF94577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68EEC552-67E8-4898-BE0C-7F112333EA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EEC552-67E8-4898-BE0C-7F112333EA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EEC552-67E8-4898-BE0C-7F112333EA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EEC552-67E8-4898-BE0C-7F112333EA52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
