@@ -24,17 +24,13 @@ namespace MiddleOfTheLinkedList
                         val = 4,
                         next = new ListNode()
                         {
-                            val = 5,
-                            next = new ListNode()
-                            {
-                                val = 6
-                            }
+                            val = 5
                         }
                     }
                 }
             });
 
-            var expectedResult = "4";
+            var expectedResult = "3";
 
             // Run
             ListNode result = MiddleNode(head);
