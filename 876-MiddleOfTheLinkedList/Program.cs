@@ -34,14 +34,14 @@ namespace MiddleOfTheLinkedList
                 }
             });
 
-            var expectedResult = "[5, 4, 3, 2, 1]";
+            var expectedResult = "4";
 
             // Run
             ListNode result = MiddleNode(head);
 
             // Output
             Console.WriteLine("Expected result: {0}", expectedResult);
-            Console.WriteLine("Real result:     {0}", result.ToString());
+            Console.WriteLine("Real result:     {0}", result.val);
             Console.ReadLine();
         }
 
