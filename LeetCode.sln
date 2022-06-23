@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206-ReverseLinkedList", "20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876-MiddleOfTheLinkedList", "876-MiddleOfTheLinkedList\876-MiddleOfTheLinkedList.csproj", "{B9A9DCE0-4190-45EB-AD3B-39E6BB7EA61E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "142-LinkedListCycleII", "142-LinkedListCycleII\142-LinkedListCycleII.csproj", "{0C73A2D3-0D68-4CB2-BCCE-5D026A91F425}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B9A9DCE0-4190-45EB-AD3B-39E6BB7EA61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9A9DCE0-4190-45EB-AD3B-39E6BB7EA61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9A9DCE0-4190-45EB-AD3B-39E6BB7EA61E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C73A2D3-0D68-4CB2-BCCE-5D026A91F425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C73A2D3-0D68-4CB2-BCCE-5D026A91F425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C73A2D3-0D68-4CB2-BCCE-5D026A91F425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C73A2D3-0D68-4CB2-BCCE-5D026A91F425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
