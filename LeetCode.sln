@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121-BestTimeToBuyAndSellSto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "409-LongestPalindrome", "409-LongestPalindrome\409-LongestPalindrome.csproj", "{31374802-9571-4B10-9098-FEF18D15084D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "589-N-aryTreePreorderTraversal", "589-N-aryTreePreorderTraversal\589-N-aryTreePreorderTraversal.csproj", "{6B546E5B-F53A-4C5F-888E-6B214DADB479}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{31374802-9571-4B10-9098-FEF18D15084D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31374802-9571-4B10-9098-FEF18D15084D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31374802-9571-4B10-9098-FEF18D15084D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B546E5B-F53A-4C5F-888E-6B214DADB479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B546E5B-F53A-4C5F-888E-6B214DADB479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B546E5B-F53A-4C5F-888E-6B214DADB479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B546E5B-F53A-4C5F-888E-6B214DADB479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
