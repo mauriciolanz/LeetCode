@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "102-BinaryTreeLevelOrderTra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704-BinarySearch", "704-BinarySearch\704-BinarySearch.csproj", "{E16110F1-4B55-4067-B76F-EBA33DBD0CB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "278-FirstBadVersion", "278-FirstBadVersion\278-FirstBadVersion.csproj", "{434770F3-E836-4D57-9073-87256AC667F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{E16110F1-4B55-4067-B76F-EBA33DBD0CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E16110F1-4B55-4067-B76F-EBA33DBD0CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E16110F1-4B55-4067-B76F-EBA33DBD0CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434770F3-E836-4D57-9073-87256AC667F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434770F3-E836-4D57-9073-87256AC667F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434770F3-E836-4D57-9073-87256AC667F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434770F3-E836-4D57-9073-87256AC667F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
