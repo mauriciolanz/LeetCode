@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "409-LongestPalindrome", "40
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "589-N-aryTreePreorderTraversal", "589-N-aryTreePreorderTraversal\589-N-aryTreePreorderTraversal.csproj", "{6B546E5B-F53A-4C5F-888E-6B214DADB479}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "102-BinaryTreeLevelOrderTraversal", "102-BinaryTreeLevelOrderTraversal\102-BinaryTreeLevelOrderTraversal.csproj", "{35E8B6CD-9430-4C33-920C-CAF5C8A7B1D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{6B546E5B-F53A-4C5F-888E-6B214DADB479}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B546E5B-F53A-4C5F-888E-6B214DADB479}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B546E5B-F53A-4C5F-888E-6B214DADB479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E8B6CD-9430-4C33-920C-CAF5C8A7B1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E8B6CD-9430-4C33-920C-CAF5C8A7B1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E8B6CD-9430-4C33-920C-CAF5C8A7B1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E8B6CD-9430-4C33-920C-CAF5C8A7B1D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
